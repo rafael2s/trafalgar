@@ -87,5 +87,24 @@
     border-radius: 55px;
 }
 .contentImg{
+    opacity: 0.5;
+}
+.ourService{
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+.services{
     
+    display: flex;
+    border: 2px solid indigo;
+    width: 80%;
+    flex: 1;
+    flex-wrap: wrap;
+}
+.serviceBox {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid hotpink;
+    width: 20%;
 }
